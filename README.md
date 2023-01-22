@@ -45,4 +45,4 @@
 <br/>
 ![Nehal Mohsen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nehalmohsen22&theme=dracula&hide_border=false)
 
-![snake gif](https://github.com/nehalmohsen22/nehalmohsen22/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/nehalmohsen22/nehalmohsen22/blob/output/github-contribution-grid-snake.svg)
