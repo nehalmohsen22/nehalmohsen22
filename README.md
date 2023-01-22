@@ -39,7 +39,10 @@
 </p>
 </div>
 <br/>
-
+ <h3 align="center"> I Love Coding</h3>
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" />
+<br>
+<br>
 
 ![Nehal Mohsen's stats](https://github-readme-stats.vercel.app/api?username=nehalmohsen22&show_icons=true&theme=radical)
 <br/>
