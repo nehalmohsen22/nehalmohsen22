@@ -34,7 +34,7 @@
   <h3 align="left">Languages and Tools:</h3>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,codepen,c,java,vim,figma,ps,github,heroku,vscode,atom,html,css,bootstrap,tailwind,js,ts,react,nextjs,redux,jest,jquery,linux,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,codepen,cpp,c,java,py,ruby,figma,ps,ai,github,django,vscode,regex,stackoverflow,unity,postgres,mysql,wordpress,html,css,bootstrap,tailwind,materialui,js,ts,react,nextjs,redux,jest,jquery,linux,nodejs,express,mongodb" />
   </a>
 </p>
 </div>
