@@ -22,7 +22,7 @@
 - 📫 How to reach me **nehalmoh27@gmail.com**
 
 - ⚡ Fun fact **Montage**
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif" />
+<!-- <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif" /> -->
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
