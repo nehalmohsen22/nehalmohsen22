@@ -58,8 +58,13 @@
 <br/> -->
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nehalmohsen22&theme=dracula&hide_border=true" style="width: 100%" /></div>  
 <br/> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalmohsen22&layout=compact&theme=dracula&hide_border=true" style="width: 100%" />
+</div>   
+</br>
 <!-- ![Nehal Mohsen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nehalmohsen22&theme=dracula&hide_border=false) -->
 <div align="center">
   <img src="https://github.com/nehalmohsen22/nehalmohsen22/blob/output/github-contribution-grid-snake.svg" style="width: 100%" />
-</div>                                                                                                                            
+</div>            
+
 <!-- ![Snake animation](https://github.com/nehalmohsen22/nehalmohsen22/blob/output/github-contribution-grid-snake.svg) -->
