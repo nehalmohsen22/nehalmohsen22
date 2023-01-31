@@ -20,10 +20,10 @@
 
 - 🌱 I’m currently learning Php **Laravel**
 
-- 💬 Ask me about **React , nextjs , typescript**
+- 💬 Ask me about **React , Nextjs , Typescript**
 
 
-- ⚡ Fun fact **Montage**
+<!-- - ⚡ Fun fact **Montage** -->
 <!-- <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif" /> -->
 <br>
 <h3 align="center">Connect with me</h3>
