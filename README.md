@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Unilever as Junoir Web Master** (Full-time)
 
-- 🌱 I’m currently learning Php **Laravel**
+- 🌱 I’m currently learning **Node js**
 
 - 💬 Ask me about **React , Nextjs , Typescript**
 
