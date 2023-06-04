@@ -16,8 +16,6 @@
 
 - 🔭 I’m currently working on **Unilever as Junoir Web Master** (Full-time)
 
-- 🔭 I’m currently working on **Suiiz as Frontend Developer** (Part-time)
-
 - 🌱 I’m currently learning Php **Laravel**
 
 - 💬 Ask me about **React , Nextjs , Typescript**
